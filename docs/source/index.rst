@@ -10,7 +10,7 @@ Contenidos
 
 .. toctree::
    :maxdepth: 2
-   :hidden:
+   :glob:
    :caption: Contenidos
    
     hpc
