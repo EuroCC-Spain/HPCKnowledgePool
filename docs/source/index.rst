@@ -9,7 +9,8 @@ Contenidos
 ----------
 
 .. toctree::
-
+   :caption: Contenidos
+   
     hpc
     programacion
     software
