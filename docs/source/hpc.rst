@@ -33,7 +33,11 @@ Los superordenadores es una agrupación (cluster en inglés) de ordenadores que 
 
   * https://www.youtube.com/watch?v=nctTZplQY-o
 
+A cada ordenador en un superordenador es conocido como nodo. Cada nodo puede se construido con un o más procesadores, una cantidad de memoria principal y una capacidad de disco duro local limitada. Además, puede contener distintos tipos de aceleradores:
 
+* La unidad de procesamiento gráfica (GPU en inglés): Este tipo de hardware es usado generalmente para el procesamiento gráfico. A su vez, es capaz de proporcionar una cantidad elevada de capacidad de cómputo, es decir, cientos de procesos ejecutándose paralelamente. Este tipo de hardware es adecuado para el cálculo algebraico lineal.
+
+* Una matriz de puertas lógicas programable en campo (FPGA es ingés): Es una hardware programable que puede ser utilizado para acelerar algunos procesos específicos que normalmente se llevan a cabo con los procesadores.
 
 
 Generalmente, los ordenadores de alto rendimiento son gestionados por el sistema operativo Linux.
@@ -44,7 +48,7 @@ Generalmente, los ordenadores de alto rendimiento son gestionados por el sistema
   
   * https://www.youtube.com/watch?v=NDhJfHhe3e4
    
-  * https://www.youtube.com/watch?v=OR3tWKKmhEM&t=5s (En inglés)
+  * https://www.youtube.com/watch?v=OR3tWKKmhEM&t=5s (en inglés)
 
 Típicamente, la interacción con los ordenadores de alto rendimiento se realiza con la consola o shell.
 
