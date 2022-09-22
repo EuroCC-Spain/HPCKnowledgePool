@@ -25,15 +25,18 @@ El término *computación de alto rendimiento* hace referencia a cualquier siste
 
 Los ordenadores de alto rendimiento contienen todos los componentes habituales de un ordenador de sobremesa - procesador (CPU), memoria principal (RAM), almacenamiento (storage), refrigeración, etc.
 
-En la taxomonía de los ordenadores de alto rendimiento, los *superordenadores* o *supercomputación* son los más potentes en computación. 
+En la taxomonía de los ordenadores de alto rendimiento, los *superordenadores* o *supercomputadores* son los más potentes en computación. 
 
-Los supercomputadores es una agrupación (cluster) de ordenadores que están interconectado por una red de alto rendimiento y conectado a un sistema de almacenamiento de alto rendimiento. 
+Los superordenadores es una agrupación (cluster en inglés) de ordenadores que están interconectado por una red de alto rendimiento y conectado a un sistema de almacenamiento de alto rendimiento.
 
 * Superordenador
 
   * https://www.youtube.com/watch?v=nctTZplQY-o
 
-Generalmente, los ordenadores de alto rendimiento son gestionados por el sistema operativo Linux. 
+
+
+
+Generalmente, los ordenadores de alto rendimiento son gestionados por el sistema operativo Linux.
 
 * ¿Qué es Linux?
   
@@ -43,13 +46,14 @@ Generalmente, los ordenadores de alto rendimiento son gestionados por el sistema
    
   * https://www.youtube.com/watch?v=OR3tWKKmhEM&t=5s (En inglés)
 
-  Típicamente, la interacción con los ordenadores de alto rendimiento se realiza con la consola o shell.
+Típicamente, la interacción con los ordenadores de alto rendimiento se realiza con la consola o shell.
 
   * Introducción a shell
+
     * https://gitlab.com/makhlaghi/smack-talks-iac/-/blob/master/smack-2-shell.md
     * https://www.youtube.com/watch?v=48r76WVkQUI
 
- A su vez, popularmente, las aplicaciones software son gestionadas por el sistema *module*. 
+A su vez, popularmente, las aplicaciones software son gestionadas por el sistema *module*.
 
 * Introducción
 
@@ -64,6 +68,9 @@ Generalmente, los ordenadores de alto rendimiento son gestionados por el sistema
   * LMOD: Distribución en expansión y ofrece una gran versatilidad.
     
     * https://lmod.readthedocs.io/en/latest/
+
+Gestor de colas/trabajos
+------------------------
 
 Tradicionalmente, los ordenadores de alto rendimiento emplean algún sistema para la gestión de los recursos del ordenador entre los usuarios.  Por lo general, a estos sistemas se conoce con el nombre de *gestor de colas* o *gestor de trabajos*. En un gestor de cola, un *trabajo* o *job* (en inglés) se refiere a una aplicación con los datos de entrada para su ejecución.
 
@@ -82,4 +89,5 @@ Hoy en día, el gestor de cola SLURM es el más popular en los ordenadores de al
 
   * https://slurm.schedmd.com/pdfs/summary.pdf
   * https://www.scayle.es/manual/es/hpc/gestor-de-trabajos
-  * https://research.iac.es/sieinvens/siepedia/pmwiki.php?n=HOWTOs.LaPalma3UsefulCommands2 (En inglés)
+  * https://research.iac.es/sieinvens/siepedia/pmwiki.php?n=HOWTOs.LaPalma3UsefulCommands2 (en inglés)
+
