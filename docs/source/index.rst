@@ -9,9 +9,6 @@ Contenidos
 ----------
 
 .. toctree::
-   :maxdepth: 2
-   :glob:
-   :caption: Contenidos
    
     hpc
     programacion
