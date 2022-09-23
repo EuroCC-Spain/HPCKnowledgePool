@@ -139,3 +139,25 @@ En la siguinte tabla se muestra la relación de los compiladores y los lenguajes
      - --
      - dpc++ (C++ basado en SYCL)
      - nvcc (CUDA)
+
+Buenas prácticas
+----------------
+
+Control de versiones
+^^^^^^^^^^^^^^^^^^^^
+
+El control de versiones se define como la gestión de la historia de cambio de un proyecto. Una versión, revisión o edición de un proyecto, es el estado en el que se encuentra el mismo en un momento dado de su desarrollo o modificación. Esta gestión permite el trabajo en equipo en el mismo proyecto sincronizado las contribuciones de cada miembro del equipo.
+
+Generalmente, el control de versiones se realiza a través de un sistema de control de versiones (en inglés Version Control System, VCS). De estos sistemas hay una gran abánico y nosotros resaltaremos el *git*:
+
+* Página oficial de git
+
+  * https://git-scm.com/
+
+* Videos de git (en inglés):
+
+  * Principiante: http://iactalks.iac.es/talks/view/1426
+  * Medio: http://iactalks.iac.es/talks/view/1428
+  * Advanzado: http://iactalks.iac.es/talks/view/1438
+
+Para mayor información de buenas prácticas puedes leer `la página web <https://deic-hpc.github.io/EuroCC-knowledgepool/best/>`_.

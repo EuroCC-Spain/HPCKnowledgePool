@@ -15,6 +15,9 @@ El *análisis de datos* es el tratamiento de datos para generar conocimiento en 
 * En python
 
   * https://www.utc.fr/~jlaforet/Suppl/python-cheatsheets.pdf
+  * Pandas library
+
+    * http://iactalks.iac.es/talks/view/1463
 
 
 Big Data
