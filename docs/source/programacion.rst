@@ -160,4 +160,4 @@ Generalmente, el control de versiones se realiza a través de un sistema de cont
   * Medio: http://iactalks.iac.es/talks/view/1428
   * Advanzado: http://iactalks.iac.es/talks/view/1438
 
-Para mayor información de buenas prácticas puedes leer `la página web <https://deic-hpc.github.io/EuroCC-knowledgepool/best/>`_.
+Para mayor información de buenas prácticas puedes leer `la página web <https://deic-hpc.github.io/EuroCC-knowledgepool/best/>`_ (best practices del EuroCC danés).
