@@ -21,4 +21,4 @@ Convocatorias en España
 
 * `EuroCC Spain testbed <https://eurocc-spain.res.es/convocatoria-eurocc-spain-testbed/>`_: la convocatoria proporciona acceso gratuito a estos recursos por un tiempo limitado a empresas y administraciones públicas españolas.
 
-* `La Red Española de Supercomputación <https://www.res.es/>`_: la convocatoria proporciona acceso a recursos de supercomputación y gestión de datos a proyectos de investigación desde grupos de investigación y a empresas.
+* `La Red Española de Supercomputación <https://www.res.es/>`_: la convocatoria proporciona acceso a recursos de supercomputación y gestión de datos a proyectos de investigación desde grupos de investigación y empresas.
