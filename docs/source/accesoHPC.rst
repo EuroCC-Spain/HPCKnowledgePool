@@ -1,9 +1,9 @@
-Acceso a superordenadores
-=========================
+Acceso a superordenadores en España
+===================================
 
 En esta sección, se puede encontrar centros y convocatorias en España para el acceso a superordenadores.
 
-Centros en España
+Centros españoles
 -----------------
 
 * `Fundación Computación y Tecnologías Avanzadas de Extremadura (COMPUTAEX-CénitS) <https://www.cenits.es/>`_
