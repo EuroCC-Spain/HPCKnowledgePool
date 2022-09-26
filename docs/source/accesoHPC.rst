@@ -6,7 +6,7 @@ En esta sección, se puede encontrar centros y convocatorias en España para el 
 Centros en España
 -----------------
 
-* `Fundación Computación y Tecnologías Avanzadas de Extremadura <https://www.cenits.es/>`_
+* `Fundación Computación y Tecnologías Avanzadas de Extremadura (COMPUTAEX-CénitS) <https://www.cenits.es/>`_
 
 * `El instituto de Biocomputación y Sistemas Complejos (BIFI) <https://www.bifi.es/>`_
 
