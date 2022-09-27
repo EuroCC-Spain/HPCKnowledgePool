@@ -17,3 +17,7 @@ Contenidos
     ia
     visualizacion
     accesoHPC
+
+.. figure:: logoEuro.png
+   :align: center
+   :width: 25% 
