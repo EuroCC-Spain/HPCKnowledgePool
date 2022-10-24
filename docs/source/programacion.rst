@@ -125,15 +125,15 @@ En la siguinte tabla se muestra la relación de los compiladores y los lenguajes
      - Nvidia HPC SDK
    * - C
      - gcc
-     - icc
+     - Actual: icx; Clásico: icc
      - nvc
    * - C++
      - g++
-     - icpc
+     - Actual: icpx; Clásico: icpc
      - nvc++
    * - Fortan
      - gfortran
-     - ifort
+     - Actual: ifx;  Clásico: ifort
      - nvfortran
    * - Aceleradores
      - --
