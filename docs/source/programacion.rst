@@ -1,7 +1,7 @@
-Programación en HPC
--------------------
+Programación paralela
+---------------------
 
-Esta sección, se expone la programación aplicada generalmente en ordnadores de computación de alto rendimiento. El concepto de rendimiento es vago y puede significar varias cosas. Nosotros usaremos el concepto de rendimiento significado la resolución de un problema en el menor tiempo posible. En cambio, la productividad es cuánto trabajo se puede realizar por unidad de tiempo. 
+Esta sección, se expone la programación aplicada generalmente en ordenadores de computación de alto rendimiento. El concepto de rendimiento es vago y puede significar varias cosas. Nosotros usaremos el concepto de rendimiento significado la resolución de un problema en el menor tiempo posible. En cambio, la productividad es cuánto trabajo se puede realizar por unidad de tiempo. 
 
 En el entorno de computación de alto rendimiento, el rendimiento es la métrica principal que se quiere conseguir optimizar, es decir, la resolución de un problema se complete en el menor tiempo posible. 
 
@@ -19,10 +19,8 @@ En la computación en paralelo se emplea varios modelos/ paradigma de programaci
 
 Estos paradigmas de programación son abstracciones sobre de arquitecturas del ordenador, y se pueden emplear en cualquier de los mismos. 
 
-Programación paralela
----------------------
-
-La programación paralela se puede conseguir con diferente paradigma de programación.
+Paradigmas de programación
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 * OpenMP
 
