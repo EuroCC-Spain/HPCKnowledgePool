@@ -1,5 +1,5 @@
 Programación en HPC
-===================
+-------------------
 
 Esta sección, se expone la programación aplicada generalmente en ordnadores de computación de alto rendimiento. El concepto de rendimiento es vago y puede significar varias cosas. Nosotros usaremos el concepto de rendimiento significado la resolución de un problema en el menor tiempo posible. En cambio, la productividad es cuánto trabajo se puede realizar por unidad de tiempo. 
 
