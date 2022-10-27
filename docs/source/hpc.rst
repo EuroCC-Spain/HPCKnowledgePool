@@ -95,4 +95,4 @@ Hoy en día, el gestor de cola SLURM es el más popular en los ordenadores de al
   * https://www.scayle.es/manual/es/hpc/gestor-de-trabajos
   * https://research.iac.es/sieinvens/siepedia/pmwiki.php?n=HOWTOs.LaPalma3UsefulCommands2 (en inglés)
 
-.. include:: ./programacion
+.. include:: ./programacion.rst
