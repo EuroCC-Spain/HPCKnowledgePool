@@ -7,17 +7,17 @@ En el entorno de computación de alto rendimiento, el rendimiento es la métrica
 
 Tradicionalmente, la *computación en serie* se ha empleado para el desarrollos de las aplicaciones software y consiste en la ejecución o división del trabajo una tras otra. En cambio, a mediado de la década de 2000, se democratizó los ordenadores paralelos motivando el uso de la computación en paralelo. 
 
-La *computación en paralelo* aplica el concepto de paralelismo que consiste en la realización de múltiples cosas al mismo tiempo. En concreto, se puede definir como la utilización de varios recursos de computación para la resolución de un problema. Este paradigma de computación permite:
+La *computación en paralelo* aplica el concepto de *paralelismo* que consiste en la realización de múltiples cosas al mismo tiempo. En concreto, se puede definir como la utilización de varios recursos de computación para la resolución de un problema. Este paradigma de computación permite:
 
 * La división de un problema en partes discretas para su ejecución simultáneamente, es decir, en múltiples recursos de computación como los procesadores.
 
-En la computación en paralelo se emplea varios modelos/ paradigma de programación o programación paralela de las cuales se resaltan :
+En la computación en paralelo se emplean varios/as modelos/paradigmas de programación, conocido también como programación paralela, de las cuales se resaltan:
 
 * Memoria compartida, OpenMP
 * Hilos, (OpenMP o POSIX threads en linux)
 * Pasos de mensajes, MPI
 
-Estos paradigmas de programación son abstracciones sobre de arquitecturas del ordenador, y se pueden emplear en cualquier de los mismos. 
+Estos paradigmas de programación son abstracciones sobre de arquitecturas del ordenador, y se pueden emplear en cualquier de las mismas. 
 
 Paradigmas de programación
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -63,9 +63,12 @@ Varios modelos de programación que son empleados
   * Nvidia CUDA (lenguaje de programación para las tarjetas gráficas de Nvidia)
     
     * https://developer.nvidia.com/cuda-toolkit
+    
     * https://www.youtube.com/watch?v=iwEoVufzqhg
-    * PARALLEL COMPUTING on GPUs with CUDA (curso en inglés)
-      * https://www.youtube.com/playlist?list=PL6lZw8yhOjVh9Hq89p1ECl9hpzjk3ivoq
+    
+    * Parallel computing on GPUs with CUDA (curso en inglés)
+    
+     * https://www.youtube.com/playlist?list=PL6lZw8yhOjVh9Hq89p1ECl9hpzjk3ivoq
   
   * OpenACC (programación se realiza con  directivas (pragmas) y biblioteca e independiente del fabricante de la tarjeta gráfica)
     
@@ -80,13 +83,15 @@ Varios modelos de programación que son empleados
     * Guía de programación
       
       * https://docs.amd.com/
+      
       * https://rocmdocs.amd.com/en/latest/Programming_Guides/HIP-GUIDE.html
+      
       * https://github.com/RadeonOpenCompute/ROCm/blob/rocm-4.5.2/AMD_HIP_Programming_Guide.pdf
 
 Compiladores
 ------------
 
-La creación de una aplicación software desde el código se consigue a través de los compiladores. Este proceso es conocido como compilación. Los compiladores principales son:
+La creación de una aplicación software desde el código fuente se consigue a través de los *compiladores*. Este proceso es conocido como *compilación*. Los compiladores principales son:
 
 * *GNU GCC*: es un conjunto de compiladores y librerías de los lenguajes  C, C++, Objective-C, Fortran, Ada, Go, and D.
   
@@ -103,7 +108,9 @@ La creación de una aplicación software desde el código se consigue a través 
     * https://www.intel.com/content/www/us/en/developer/tools/oneapi/toolkits.html#gs.a5xmdj
 
     * Introducción 
+    
       * https://www.youtube.com/watch?v=NsFGFbdPsh0 (en inglés)
+      
       * https://www.youtube.com/watch?v=ynkDh4yYybs
 
 * *Nvidia HPC SDK*: conjunto de software, librerías y compiladores para los lenguajes C, C++, Fortran, directivas OpenACC y CUDA
