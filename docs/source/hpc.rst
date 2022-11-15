@@ -1,5 +1,5 @@
-Computación de alto rendimiento (HPC en inglés)
-===============================================
+Computación de alto rendimiento o High-Performance Computing (HPC)
+==================================================================
 
 El término *computación de alto rendimiento* hace referencia a cualquier sistema informático que su capacidad de computo es mayor que pueden manejar los ordenadores de sobremesa normales. En otras palabras, la computación de alto rendimiento es un conjunto de tecnologías hardware y software que es capaz de tratar información en el menor tiempo posible es decir a gran velocidad. El término *supercomputación* se usa como sinómino a computación de alto rendimiento. 
 
@@ -95,3 +95,4 @@ Hoy en día, el gestor de cola SLURM es el más popular en los ordenadores de al
   * https://www.scayle.es/manual/es/hpc/gestor-de-trabajos
   * https://research.iac.es/sieinvens/siepedia/pmwiki.php?n=HOWTOs.LaPalma3UsefulCommands2 (en inglés)
 
+.. include:: ./programacion.rst
